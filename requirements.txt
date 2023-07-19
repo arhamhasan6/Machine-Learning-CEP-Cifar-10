@@ -2,7 +2,6 @@ uuid
 urllib3
 tensorflow
 flask
-pickle
 numpy
 scipy
 scikit-learn
